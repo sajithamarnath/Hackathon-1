@@ -12,4 +12,4 @@ All the Open Source Tools used. Hence the cost is Zero.
 5. Trigger Token = 8911853e-9e64-46f1-b70d-ffedeaa775f6
 6. Trigger URL = https://registry.hub.docker.com/u/sajithamarnath/hackathon-1/trigger/8911853e-9e64-46f1-b70d-ffedeaa775f6/
 7. Curl Site = curl -H "Content-Type: application/json" --data '{"build":true}' -X POST 
-8. Redirect URL - https://cloud.docker.com/api/app/v1/service/95afbf42-86d2-4673-a0a5-25db117aa42b/trigger/415e533f-a1b8-49a5-8771-432131d08e55/call/
+8. Redirect URL - https://cloud.docker.com/api/app/v1/service/11c55b00-daeb-4b70-bd47-88f563cd1ee7/trigger/4afbf2f1-c0f4-499a-99d4-7b308568eb35/call/
