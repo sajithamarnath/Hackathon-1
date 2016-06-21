@@ -1,0 +1,15 @@
+{
+	"name": "heckaton-1",
+	"private": true,
+	"version": "0.0.1",
+	"description": "Demo for Heckathon-1; App for CI Contineous Integration",
+	"main": "app.js",
+	"author": "Ashish Kumar <ashish.aa.kumar@ericsson.com>",
+	"license": "Zero Cost; All Open Source",
+	"dependencies": {
+		"express": "3.2.4",
+		"jade": "1.11.0",
+		"mocha": "1.20.1",
+		"supertest": "1.1.0"
+	}
+}
