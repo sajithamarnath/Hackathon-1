@@ -9,7 +9,7 @@ var request = require("supertest"),		// to help with http assertions, assertion 
 describe('GET /', function(){
   it('expects HTTP response 200', function(done){
     request(app)
-     .get('/')
+     .get('\')
 	 .expect(200, done);
   });
 });
