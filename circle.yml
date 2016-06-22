@@ -11,5 +11,5 @@ test:
     - mocha
 
 notify:
-  webhooks:
-    -url: https://api.opsgenie.com/v1/json/circleci?apiKey=ad4c1c06-655c-4503-92f3-0c0163cb0529
+    webhooks:
+        - url: https://api.opsgenie.com/v1/json/circleci?apiKey=ad4c1c06-655c-4503-92f3-0c0163cb0529
